@@ -1,4 +1,4 @@
-### Hi there 👋
+### こんにちは 👋
 
 <!--
 **tetsu5555/tetsu5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
